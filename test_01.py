@@ -1,0 +1,2 @@
+n = 'mike'
+print(n)
